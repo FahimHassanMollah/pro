@@ -1,0 +1,42 @@
+.bgimg{
+     background-image: url("bg.jpg");!important;
+     background-size: 100% 100%;!important;
+     background-attachment: fixed;!important;
+     width: 100%;!important;
+     height: 666px;!important;
+}
+.navv{
+     position: fixed;
+     top: 0;
+}
+.bgwrite{
+     box-sizing: border-box;
+margin-top: 250px;
+}
+
+
+
+.bgwrite h4{
+     box-sizing: border-box;
+
+     font-family: "Arial Rounded MT Bold";
+     font-size: 50px;
+
+}
+.bgwrite h1{
+
+     font-family: "Arial Rounded MT Bold";
+     font-size: 80px;
+
+}
+.fa-shopping-cart{
+     padding: 29px;
+     border-radius: 50%;
+     height: 35%;
+     width: 35%;
+
+}
+.paragraphs{
+     padding: 3px;
+     color: #6c757d;
+}
